@@ -9,6 +9,9 @@ This is the day you have to Take this challenge and start your #90DaysOfDevOps w
 - What is Automation, Scaling, Infrastructure
 - Why DevOps is Important, etc
 
-  Done.
+After Day1:
+
+- All the tasks have been completed, find the post link below
+- https://www.linkedin.com/posts/mayur-panchale-68194526a_an-introduction-to-devops-in-modern-software-activity-7158821261391867904-AYcE?utm_source=share&utm_medium=member_desktop
 
 [Next Day →](../day02/README.md)
