@@ -10,4 +10,8 @@ Note: [Check this file for reference](basic_linux_commands.md)
 
 Check the basic_linux_commands.md file on the same directory day2
 
+After Day 2 :
+
+https://www.linkedin.com/posts/mayur-panchale-68194526a_day-2-exploring-linux-architecture-and-activity-7159294296506957824-WPRM?utm_source=share&utm_medium=member_desktop
+
 [← Previous Day](../day01/README.md) | [Next Day →](../day03/README.md)
